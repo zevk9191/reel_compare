@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Shimano Soare XR C2000SSPG",
+        "year": "2021",
+        "weight": "155g",
+        "gearRatio": "4.6:1",
+        "dragForce": "3kg",
+        "lineRetrieve": "62cm",
+        "ballBearing": "9/1"
+    },
+    {
+        "name": "Shimano Complex XR C2000S",
+        "year": "2021",
+        "weight": "155g",
+        "gearRatio": "5.1:1",
+        "dragForce": "3kg",
+        "lineRetrieve": "69cm",
+        "ballBearing": "9/1"
+    },
+    {
+        "name": "Shimano Vanford C2000S",
+        "year": "2020",
+        "weight": "150g",
+        "gearRatio": "5.1:1",
+        "dragForce": "3kg",
+        "lineRetrieve": "69cm",
+        "ballBearing": "7/1"
+    },
+    {
+        "name": "Daiwa Luvias 2000S",
+        "year": "2020",
+        "weight": "150g",
+        "gearRatio": "5.1:1",
+        "dragForce": "5kg",
+        "lineRetrieve": "67cm",
+        "ballBearing": "9/1"
+    },
+    {
+        "name": "Daiwa Caldia 2000S",
+        "year": "2021",
+        "weight": "175g",
+        "gearRatio": "5.2:1",
+        "dragForce": "5kg",
+        "lineRetrieve": "68cm",
+        "ballBearing": "6/1"
+    }
+]

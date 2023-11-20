@@ -1,0 +1,20 @@
+#app {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  font-weight: normal;
+  background: var(--Body, rgba(29, 121, 205, 0.5));
+}
+.header,
+.footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  height: 100px;
+  background: var(--Head-and-Foo, rgba(10, 73, 30, 0.662));
+  box-shadow: 0px 0px 5px 5px rgba(68, 111, 222, 0.28);
+}
+
+
